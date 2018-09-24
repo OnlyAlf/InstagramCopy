@@ -1,0 +1,4 @@
+#Sat Sep 22 22:21:32 MST 2018
+base.0=C\:\\Users\\alvar\\OneDrive\\Documentos\\AWS\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
